@@ -6,5 +6,5 @@
  <br>Muhammad  Risyad Fadilah - i.2210148</h2>
 
 # Nama File Database - database_tugas.sql
-# Nama File Codingan Pyton - UjianPraktik.py
+# Nama File Codingan Python - UjianPraktik.py
  

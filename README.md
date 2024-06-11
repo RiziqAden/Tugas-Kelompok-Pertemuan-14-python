@@ -5,5 +5,6 @@
  <br>Muhamad  Noufal Falah - i.2210466
  <br>Muhammad  Risyad Fadilah - i.2210148</h2>
 
-# Tugas-Kelompok-Pertemuan-14-python
+# Nama File Database - database_tugas.sql
+# Nama File Codingan Pyton - UjianPraktik.py
  
